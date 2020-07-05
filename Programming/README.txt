@@ -1,0 +1,1 @@
+Anacondaをダウンロード後jupyternotebookで閲覧するかGoogle Colaboratoryに.ipynbファイルを読み込んでご利用ください
